@@ -1,0 +1,98 @@
+18:03:19  
+18:03:19 -----Starting local deployment-----
+18:03:49 -----Finished local deployment-----
+18:03:55  
+18:03:55 -----Starting local deployment-----
+18:04:22 -----Finished local deployment-----
+13:25:29  
+13:25:29 -----Starting local deployment-----
+11:31:27  
+11:31:27 -----Starting local deployment-----
+11:32:09  
+11:32:09 -----Starting local deployment-----
+11:36:28  
+11:36:28 -----Starting local deployment-----
+11:36:56 -----Finished local deployment-----
+11:40:37  
+11:40:37 -----Starting local deployment-----
+11:41:03 -----Finished local deployment-----
+11:42:37  
+11:42:37 -----Starting local deployment-----
+11:43:03 -----Finished local deployment-----
+11:53:05  
+11:53:05 -----Starting local deployment-----
+11:53:32 -----Finished local deployment-----
+11:54:47  
+11:54:47 -----Starting local deployment-----
+11:55:15 -----Finished local deployment-----
+11:56:31  
+11:56:31 -----Starting local deployment-----
+11:56:58 -----Finished local deployment-----
+12:40:33  
+12:40:33 -----Starting local deployment-----
+12:41:00 -----Finished local deployment-----
+12:54:27  
+12:54:27 -----Starting local deployment-----
+12:54:58 -----Finished local deployment-----
+12:57:35  
+12:57:35 -----Starting local deployment-----
+12:58:02 -----Finished local deployment-----
+12:59:23  
+12:59:23 -----Starting local deployment-----
+12:59:50 -----Finished local deployment-----
+13:04:37  
+13:04:37 -----Starting local deployment-----
+13:05:07 -----Finished local deployment-----
+13:08:37  
+13:08:37 -----Starting local deployment-----
+13:09:06 -----Finished local deployment-----
+13:18:27  
+13:18:27 -----Starting local deployment-----
+13:18:55 -----Finished local deployment-----
+13:32:24  
+13:32:24 -----Starting local deployment-----
+13:32:50 -----Finished local deployment-----
+16:33:43  
+16:33:43 -----Starting local deployment-----
+16:34:11 -----Finished local deployment-----
+16:35:10  
+16:35:10 -----Starting local deployment-----
+16:35:37 -----Finished local deployment-----
+16:36:36  
+16:36:36 -----Starting local deployment-----
+16:37:04 -----Finished local deployment-----
+19:08:18  
+19:08:18 -----Starting local deployment-----
+19:08:45 -----Finished local deployment-----
+19:11:04  
+19:11:04 -----Starting local deployment-----
+19:11:40 -----Finished local deployment-----
+11:16:00  
+11:16:00 -----Starting local deployment-----
+11:16:34 -----Finished local deployment-----
+11:25:27  
+11:25:27 -----Starting local deployment-----
+11:26:01 -----Finished local deployment-----
+12:38:26  
+12:38:26 -----Starting local deployment-----
+12:38:54 -----Finished local deployment-----
+12:44:05  
+12:44:05 -----Starting local deployment-----
+12:44:37 -----Finished local deployment-----
+12:51:13  
+12:51:13 -----Starting local deployment-----
+12:51:43 -----Finished local deployment-----
+12:55:00  
+12:55:00 -----Starting local deployment-----
+12:55:31 -----Finished local deployment-----
+12:56:11  
+12:56:11 -----Starting local deployment-----
+12:56:39 -----Finished local deployment-----
+13:19:15  
+13:19:15 -----Starting local deployment-----
+13:20:19  
+13:20:19 -----Starting local deployment-----
+13:20:47 -----Finished local deployment-----
+13:25:49  
+13:25:49 -----Starting local deployment-----
+13:26:17 -----Finished local deployment-----
